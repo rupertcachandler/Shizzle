@@ -1,6 +1,6 @@
 # ndi-testgen for Linux - Debian Release
 
-NDI test pattern generator — emits SMPTE colour bars, solid fills, animated patterns, and audio tones over NDI for testing receiver pipelines.
+NDI test pattern generator for Linux systems— emits SMPTE colour bars, solid fills, animated patterns, and audio tones over NDI for testing receiver pipelines.
 
 Single C file, one dependency: the NDI SDK.
 
