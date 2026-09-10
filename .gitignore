@@ -1,0 +1,3 @@
+*.o
+ndi-testgen
+.DS_Store
